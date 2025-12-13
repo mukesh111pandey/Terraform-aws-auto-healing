@@ -1,0 +1,14 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+
+# Lambda zip
+*.zip
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
